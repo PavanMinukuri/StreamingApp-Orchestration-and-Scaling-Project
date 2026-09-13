@@ -142,7 +142,7 @@ Tasks performed:
 * Tagged Docker images.
 * Pushed images to ECR.
 
-<img width="1587" height="385" alt="image" src="https://github.com/user-attachments/assets/d96f9347-22f6-4566-bc10-25bb761e44d8" />
+
 
 Example:
 
